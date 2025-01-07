@@ -42,8 +42,8 @@ Impact:
 
 ## 🌐 Find Me Online
 
-- [GitHub](https://github.com/I-r-am/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/in/iram-mulla-070194345/)
+- [GitHub](https://github.com/itzzoya/portfolio.github.io/edit/main/README.md)
+
 
 ## Portfolio Highlights
 
