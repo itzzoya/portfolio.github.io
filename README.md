@@ -50,7 +50,7 @@ Impact:
 ### 🎯 Topic: 
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Pollution cities  
+  
 
 ### 📋 Details:
 
@@ -67,7 +67,7 @@ Impact:
 ## 🎨 What Drives Me  
 - 💻 Constantly exploring new technologies and applying them creatively.  
 - 🤝 Helping others grow while improving myself every day.  
-- 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering (AI) program.  
+- 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering program.  
 
 ---
 
