@@ -42,7 +42,8 @@ Impact:
 
 ## 🌐 Find Me Online
 
-- [GitHub](https://github.com/itzzoya/portfolio.github.io/edit/main/README.md)
+- [GitHub]https://github.com/itzzoya/portfolio.github.io?tab=readme-ov-file
+- [linkedin]https://www.linkedin.com/in/zoya-hudli-5b05b82a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ## Portfolio Highlights
